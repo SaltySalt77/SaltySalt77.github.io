@@ -2,7 +2,7 @@ module.exports = {
   title: `Salt House`,
   description: `hey, it's too salty!`,
   author: `hyna`,
-  introduction: `This is the engineering blog for developer hyna`,
+  introduction: `This is the engineering blog for developer hyna.`,
   siteUrl: `https://saltysalt77.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
