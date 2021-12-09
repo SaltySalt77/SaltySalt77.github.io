@@ -81,7 +81,6 @@
   "scripts": {
     "post": "gatsby-post-gen",
     "dev": "gatsby develop",
-    "create": "gatsby-post-gen",
     "deploy": "gatsby build && gh-pages -d public -b gh-pages",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
