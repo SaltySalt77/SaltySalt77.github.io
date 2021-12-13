@@ -7,22 +7,11 @@ on :
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps :
-      - name: checkout code
-        uses: actions/checkout@v2
-
-      - name: packages install
-        run: npm install node-sass@4.14.1
-
-      - name: gatsby build
-        run: gatsby build
-        env:
-          GH_API_KEY: ${{ secrets.ACCESS_TOKEN }}
-
-      - name: deploy
-        uses: maxheld83/ghpages@v0.2.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_PAT: ${{ secrets.ACCESS_TOKEN }}
-          BUILD_DIR: 'public/'
-     
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+      
+    - name: Deploy
+      uses: enriikke/gatsby-gh-pages-action@v2
+      with:
+        access-token: ${{ secrets.ACCESS_TOKEN }}
