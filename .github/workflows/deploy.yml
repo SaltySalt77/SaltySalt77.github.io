@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: packages install
-        run: npm install
+        run: npm install node-sass@4.14.1
 
       - name: gatsby build
         run: gatsby build
