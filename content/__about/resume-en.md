@@ -13,3 +13,5 @@ _Thank you for reading my resume. If you want to contact me, Please send me an e
 hyna@stuent.42seoul.kr
 
 </div>
+<div>Icons made by <a href="" title="BomSymbols">BomSymbols</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</div>
