@@ -5,14 +5,14 @@ category: github.io short study
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-##### This weeks goal
+### This weeks goal
 
 - [x] write a workflow for auto-deploying -> changed to write a shell script for auto-deploying.
 - [ ] study markdown syntax
 - [ ] analyze blog features
 
-#### Writing a workflow for auto-deploying  
-##### ~ Monday  
+### Writing a workflow for auto-deploying  
+#### ~ Monday  
 I've tried many of them which came up while searching. But errors occurred while installing npm(`npm install`). So I changed the way for auto-deploying. I wrote a shell script! And this is it.
 ```shell
 #!/bin/bash
@@ -30,11 +30,11 @@ npm install
 ```
 It pushes source codes to branch master with commit message(date) and pushes deployed files to branch gh-pages.  
 
-##### Tuesday
+#### Tuesday
 I peeped in Hyojekim\_space and saw `nodejs version occurred errors`. So I simply added code of setting nodejs version in a workflow. And it did work!  
 It worked but it pushed the deployed files not on branch gh-pages, on master. So I went to Github pages, read readme files, and found that it pushes the deployed files on branch master in default.  
 
-#### Changed profile images and site tab images.
+### Changed profile images and site tab images.
 I've changed profile images and site tab images.  
 These images are found in the `content/assets` directory. 
 
