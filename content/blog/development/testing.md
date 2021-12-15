@@ -6,3 +6,4 @@ thumbnail: { thumbnailSrc }
 draft: false
 ---
 
+This is a test
