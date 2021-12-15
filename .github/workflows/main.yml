@@ -1,0 +1,51 @@
+name: gatsby deploy
+
+# Controls when the workflow will run
+on:
+  # main 브랜치에 push 할 때마다 실행
+  push:
+    branches: [ main ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    name: deploy
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # uses는 이미 만들어진 액션을 사용하는 것
+      # ref 없는 checkout 액션은 default branch를 checkout -> main
+      - name: checkout code
+        uses: actions/checkout@v2
+
+      # node.js 14버전으로 설치
+      - name: setup node
+        uses: actions/setup-node@v2.1.2
+        with:
+          node-version: '14.x'
+
+      # npm 캐싱 : node_module 설치할 때 속도 개선
+      - name: npm cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node
+      # run은 cmd에서 실행시킬 명령어
+      # 패키지 설치
+      - name: packages install
+        run: npm 
+        
+      - name: gatsby build
+        run: npm run build
+      
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
