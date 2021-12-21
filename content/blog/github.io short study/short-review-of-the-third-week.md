@@ -35,28 +35,30 @@ I’ve started studying React on [42seoul.groom.io](http://42seoul.groom.io/). 
 The initial restoring repo of blog comments is the theme creator’s repo. So, I had to update the gatsby-meta-config.js file.
 When I changed the repo and deployed it. Boom! All of the comments were gone, like this.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2e7ce4d-ac85-4bd4-8933-f74fc9ac66c9/Untitled.png)
+![image](https://user-images.githubusercontent.com/91731260/146970342-1f645be4-4502-4278-af1c-c8a3dd1dcbaa.png)
 
 I was in a panic. I’ve tried everything, but the comment didn’t come back. The next day, I was going to start from the beginning. Before deleting the repository of my blog, I compared the gatsby-meta-config.js file from others. And found out the difference.
 
 ```jsx
 //wrong one
 comment: {
-	    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-	        utterances: 'SaltySalt77/blog_comments.git', // Your repository for archive comment
+	disqusShortName: '', // Your disqus-short-name. check disqus.com.
+	utterances: 'SaltySalt77/blog_comments.git', // Your repository for archive comment
+}
+//right one
+comment: {
+	disqusShortName: '', // Your disqus-short-name. check disqus.com.
+	utterances: 'SaltySalt77/blog_comments', // Your repository for archive comment
+}
+```
 
-		//right one
-		comment: {
-			    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-			        utterances: 'SaltySalt77/blog_comments', // Your repository for archive comment
-				```
 
-				Did you find it? Yes, I had to add the repository name, not the link of the repository. After correcting the code, the comments feature came back. Like this.
+Did you find it? Yes, I had to add the repository name, not the link of the repository. After correcting the code, the comments feature came back. Like this.
 
-				![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a9ce9f5-9346-46e8-ad43-aa668d354d93/Untitled.png)
+![image](https://user-images.githubusercontent.com/91731260/146970456-a0cd39c1-3ec8-41d6-ac49-c9899ecd5268.png)
 
 ### Translating Gatsby Official Tutorial Part 3
 
 As you know, I’m Korean, so I participated in translating Gatsby Official Tutorial. While translating, I learned about how to install and use plugins.
 
-You can fine Gatsby Official Tutorial Part 3 in [*here*](https://www.gatsbyjs.com/docs/tutorial/part-3/).
+You can find Gatsby Official Tutorial Part 3 in [*here*](https://www.gatsbyjs.com/docs/tutorial/part-3/).
