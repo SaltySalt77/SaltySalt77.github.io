@@ -5,7 +5,7 @@ module.exports = {
   introduction: `This is the engineering blog for developer hyna.`,
   siteUrl: `https://saltysalt77.github.io`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: `hyna_blog`, // Your Twitter account
     github: `SaltySalt77`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
