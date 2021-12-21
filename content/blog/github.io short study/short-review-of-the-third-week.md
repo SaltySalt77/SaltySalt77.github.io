@@ -32,7 +32,7 @@ I’ve started studying React on [42seoul.groom.io](http://42seoul.groom.io/). 
 
 ### Adding comment feature on the blog
 
-The initial restoring repo of blog comments is the theme creator’s repo. So, I had to update the gatsby-meta-config.js file.
+The initial restoring repo of blog comments is the theme creator’s repo. So, I had to update the `gatsby-meta-config.js` file.
 When I changed the repo and deployed it. Boom! All of the comments were gone, like this.
 
 ![image](https://user-images.githubusercontent.com/91731260/146970342-1f645be4-4502-4278-af1c-c8a3dd1dcbaa.png)
