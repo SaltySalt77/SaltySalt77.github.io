@@ -7,10 +7,10 @@ draft: false
 ---
 ### This weeks goal
 
-- [x]  add a workflow script
-- [x]  start studying React
-- [x]  add comments feature in the blog
-- [x]  translate Gatsby Official Tutorial Part 3
+- [x]  [add a workflow script](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#adding-a-workflow-script)
+- [x]  [start studying React](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#start-studying-react)
+- [x]  [add comments feature in the blog](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#adding-comment-feature-on-the-blog)
+- [x]  [translate Gatsby Official Tutorial Part 3](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#translating-gatsby-official-tutorial-part-3)
 
 ### Adding a workflow script
 
@@ -28,13 +28,12 @@ You can find the workflow script on [my GitHub page](https://github.com/SaltySa
 >  *- from. Gatsby Official Tutorial Part: 0[(here)](https://www.gatsbyjs.com/docs/tutorial/part-0/)*
 > 
 
-I’ve started studying React on [42seoul.groom.io](http://42seoul.groom.io/). But as you see from above, it’s a code library built with JavaScript. So I decided to learn Javascript basics.
+I’ve started studying React on [42seoul.groom.io](https://42seoul.goorm.io/). But as you see from above, it’s a code library built with JavaScript. So I decided to learn Javascript basics.
 
 ### Adding comment feature on the blog
 
 The initial restoring repo of blog comments is the theme creator’s repo. So, I had to update the `gatsby-meta-config.js` file.
-When I changed the repo and deployed it. Boom! All of the comments were gone, like this.
-
+I changed the repo in gatsby-meta-config.js file and deployed it. And then, ***BOOM!*** All of the comments were gone, like this.
 ![image](https://user-images.githubusercontent.com/91731260/146970342-1f645be4-4502-4278-af1c-c8a3dd1dcbaa.png)
 
 I was in a panic. I’ve tried everything, but the comment didn’t come back. The next day, I was going to start from the beginning. Before deleting the repository of my blog, I compared the gatsby-meta-config.js file from others. And found out the difference.
