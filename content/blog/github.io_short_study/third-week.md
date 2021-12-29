@@ -1,11 +1,11 @@
 ---
-title: short review of the third week
+title: a short review of the third week
 date: 2021-12-22 01:12:21
 category: github.io short study
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-### This weeks goal
+### This week's goal
 
 - [x]  [add a workflow script](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#adding-a-workflow-script)
 - [x]  [start studying React](https://saltysalt77.github.io/github.io%20short%20study/short-review-of-the-third-week/#start-studying-react)

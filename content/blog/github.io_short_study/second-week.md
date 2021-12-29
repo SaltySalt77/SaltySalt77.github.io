@@ -1,11 +1,11 @@
 ---
-title: short review of the second week
+title: a short review of the second week
 date: 2021-12-15 14:12:10
 category: github.io short study
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-### This weeks goal
+### This week's goal
 
 - [x] write a workflow for auto-deploying -> changed to write a shell script for auto-deploying.
 - [ ] study markdown syntax

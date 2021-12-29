@@ -1,5 +1,5 @@
 ---
-title: short review of the first week
+title: a short review of the first week
 date: 2021-12-10 03:12:61
 category: github.io short study
 thumbnail: { thumbnailSrc }
