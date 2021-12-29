@@ -47,5 +47,5 @@ Before fixing it, I should know how the function works. I have found some codes 
 
  before | after 
 --------|--------
-![before image](https://user-images.githubusercontent.com/91731260/147629036-17dcc187-92ff-4a22-95fa-cba98bf89f2a.png)|![after image](https://user-images.githubusercontent.com/91731260/147629332-e37706d5-9bb0-4720-80d6-dd8a7a3bf42e.png)
+![before image](https://raw.githubusercontent.com/SaltySalt77/SaltySalt77.github.io/main/content/blog/github.io_short_study/images/before.png)|![after image](https://raw.githubusercontent.com/SaltySalt77/SaltySalt77.github.io/main/content/blog/github.io_short_study/images/after.png)
 2. Added Twitter account to my blog.
