@@ -25,7 +25,7 @@ I have learned about tags and comments. My goal for next week is to complete the
 
 I have done it, ‘cause I promised with Haryu to translate images at the last study meeting. I decided that only one was needed to be translated, and I translated only that.
 
-Like this.
+Like [*this*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe21f062-32e3-4f52-b4fd-cdce3daa6780/%EC%9D%B4%EB%AF%B8%EC%A7%801.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220101T025143Z&X-Amz-Expires=86400&X-Amz-Signature=e9f04a13f9a1ebc7306852fa5fe0e1302061aa5fece9163b9ce438c6e7f9ec3a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%259D%25B4%25EB%25AF%25B8%25EC%25A7%25801.png%22&x-id=GetObject).
 
 It's embarrassing to show my work to others, but I did my best.
 
