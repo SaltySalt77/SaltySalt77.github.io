@@ -2,11 +2,11 @@
 title: 접근성 최적화
 date: 2023-09-14 03:12:61
 category: development
-thumbnail: { ./images/semanticTagThumbnail.png }
+thumbnail: { thumbnailSrc }
 draft: false
 ---
 
-![썸네일: 민트 배경에 영어 필기체 'semantic tag'](./images/semanticTagThumbnail.png)
+![썸네일: 민트 배경에 영어 필기체 'semantic tag'](./images/semantic-tag.png)
 
 *~~사실 썸네일 이미지는 UX 측면에서 정말 별로라고 생각합니다. 필기체는 이쁘긴 하지만 알아보기 어렵거든요~~*
 
