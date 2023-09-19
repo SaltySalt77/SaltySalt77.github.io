@@ -1,6 +1,6 @@
 ---
 title: 접근성 최적화
-date: 2021-12-10 03:12:61
+date: 2023-09-14 03:12:61
 category: development
 thumbnail: { ./images/semanticTagThumbnail.png }
 draft: false
@@ -11,6 +11,7 @@ draft: false
 *~~사실 썸네일 이미지는 UX 측면에서 정말 별로라고 생각합니다. 필기체는 이쁘긴 하지만 알아보기 어렵거든요~~*
 
 > *웹 접근성은 사실 검색엔진 최적화와도 관련이 있습니다. 그 덕에 요즘 채용시장에선 웹 접근성과 웹 표준이라는 키워드가 종종 나오기도 하죠. 그럼 한 번 알아봅시다.*
+> 
 > *by. hoslim*
 
 ## 목차
