@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Salt House]]></title><description><![CDATA[hey, it's too salty!]]></description><link>https://saltysalt77.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Sep 2023 17:44:52 GMT</lastBuildDate><item><title><![CDATA[새로운 동아리장의 인삿말]]></title><description><![CDATA[안녕하세요, 42peer…]]></description><link>https://saltysalt77.github.io/peer/Greetings/</link><guid isPermaLink="false">https://saltysalt77.github.io/peer/Greetings/</guid><pubDate>Mon, 11 Sep 2023 18:03:51 GMT</pubDate><content:encoded>&lt;p&gt;안녕하세요, 42peer의 새로운 회장 히나입니다. 사실 가벼운 마음으로 공지를 작성해 볼까 했는데, 새벽에 주전님이 엄청 좋은 글을 써주셨더라고요. 무한한 감사함과 약간의 책임감을 느끼고 글을 쓰려 자리에 앉았습니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Salt House]]></title><description><![CDATA[hey, it's too salty!]]></description><link>https://saltysalt77.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 19 Sep 2023 15:40:40 GMT</lastBuildDate><item><title><![CDATA[접근성 최적화]]></title><description><![CDATA[사실 썸네일 이미지는 UX…]]></description><link>https://saltysalt77.github.io/development/semantic-tag/</link><guid isPermaLink="false">https://saltysalt77.github.io/development/semantic-tag/</guid><pubDate>Thu, 14 Sep 2023 03:13:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAC4jAAAuIwF4pT92AAABHUlEQVQoz42SS0sDQRCE6wf7AwQPgqIHBT37woPBB2qCEVTwbZJd1+hJ8eTBBEJATy6KqFnL3ulMmE1mJYdih9mub6p7BmBAr35rqrx1qsSzPxQscda8FkXd2htRmK31QhIngTGLMamq+f2UaBSJVploloiPsyx0ILIx2gR14uWAuF8jHtf13+EcUV8hNiaIpVFiZ4roVPoSWqhp5454LurJnxfE7AixNUmEiwqLj4nagqZ8KOg6rbMpe7DvK+JV0kTLxO40URgnVseIp20iEFh7X2tSo/lK+q9LgZ17WrbD3pQ2juY1XXwirVTVaEYQZo32ogYuxQXuzRBv0hJvu4BA5+Y+FXdEvufU2/ipaFudHEA/LE/Zomg40z/6A7nbGx1zWYyZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;썸네일: 민트 배경에 영어 필기체 &amp;#39;semantic tag&amp;#39;&quot;
+        title=&quot;썸네일: 민트 배경에 영어 필기체 &amp;#39;semantic tag&amp;#39;&quot;
+        src=&quot;/static/0c25ec1b6089b98f50212f84f871394e/5a190/semantic-tag.png&quot;
+        srcset=&quot;/static/0c25ec1b6089b98f50212f84f871394e/5a46d/semantic-tag.png 300w,
+/static/0c25ec1b6089b98f50212f84f871394e/0a47e/semantic-tag.png 600w,
+/static/0c25ec1b6089b98f50212f84f871394e/5a190/semantic-tag.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;del&gt;사실 썸네일 이미지는 UX 측면에서 정말 별로라고 생각합니다. 필기체는 이쁘긴 하지만 알아보기 어렵거든요&lt;/del&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;웹 접근성은 사실 검색엔진 최적화와도 관련이 있습니다. 그 덕에 요즘 채용시장에선 웹 접근성과 웹 표준이라는 키워드가 종종 나오기도 하죠. 그럼 한 번 알아봅시다.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;by. hoslim&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;목차&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AA%A9%EC%B0%A8&quot; aria-label=&quot;목차 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;목차&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;알아볼 것들&lt;/li&gt;
+&lt;li&gt;웹 표준?&lt;/li&gt;
+&lt;li&gt;그래서 웹 표준이 뭔데?&lt;/li&gt;
+&lt;li&gt;웹 접근성과 관련된 html tag&lt;/li&gt;
+&lt;li&gt;semantic tag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;알아볼-것들&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%8C%EC%95%84%EB%B3%BC-%EA%B2%83%EB%93%A4&quot; aria-label=&quot;알아볼 것들 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;알아볼 것들&lt;/h3&gt;
+&lt;p&gt;그러니까 이 글은 사실 스터디 과제에 따라 글을 작성하는 것에 가깝습니다. 원래 관심이 없었던 건 아닌데, 계기가 없어 공부하지 못한 것에 가깝죠. 과제에서 요구하는 것은 다음과 같습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;웹 표준&lt;/li&gt;
+&lt;li&gt;웹 접근성과 관련된 html tag&lt;/li&gt;
+&lt;li&gt;semantic tag&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;사실 웹 접근성과 관련된 html tag는 aria tag나 semantic tag 정도가 아닌가 싶긴 한데, 일단 알아봅시다. &lt;em&gt;&lt;del&gt;(우물한 개구리 같은 발언일 것이라고 생각합니다.)&lt;/del&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;웹-표준&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%B9-%ED%91%9C%EC%A4%80&quot; aria-label=&quot;웹 표준 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;웹 표준?&lt;/h3&gt;
+&lt;p&gt;우선 &lt;a href=&quot;http://www.smartebiz.kr/&quot;&gt;웹 발전 연구소&lt;/a&gt;에서는 이렇게 정의하고 있습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;웹 표준이란 브라우저 종류 및 버전에 따른 기능 차이에 대하여 호환이 가능하도록 제시된 표준으로, 다른 기종 혹은 플랫폼에 따라 달리 구현되는 기술을 동일하게 구현함과 동시에 어느 한쪽에 최적화되어 치우치지 않도록 공통요소를 사용하여 웹 페이지를 제작하는 기법을 의미한다. 표준화 단체인 W3C(World Wide Consortium)가 권고한 표준안에 따라 웹사이트를 작성할 때 이용하는 HTML, CSS, JavaScript 등에 대한 규정을 담고 있으며 웹 표준의 궁극적인 목적은 웹사이트에 접속한 사용자가 어떠한 운영체제나 브라우저를 사용하더라도 동일한 결과를 보이게 하는 것이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.w3.org/&quot;&gt;W3C&lt;/a&gt;에서는 다음과 같이 정의하고 있습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Web standards are blueprints –or building blocks– of a consistent and harmonious digitally connected world. They are implemented in browsers, blogs, search engines, and other software that power our experience on the web.
+&lt;em&gt;웹 표준은 조화롭고 한결같은 디지털로 연결된 세상의 청사진(혹은 구현 요소) 입니다. 이러한 세상은 브라우저들, 블로그들, 검색엔진, 또는 웹 경험을 증가시키는 다른 소프트웨어에 구현되어있습니다.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;그러니까 다시 말해 웹 표준이란 ‘어떤 웹 브라우저를 사용하던, 어떤 환경(ex. pc나 mobile 등등)에서 구동하건 달리 구현되는 기술을 동일하게 구현함과 동시에, 공통 요소를 사용하여 웹 페이지를 제작하는 기법에 대한 기준’을 뜻하는 것 같습니다. 만약 웹 표준이 없었다면 웹 개발자들은 다음과 같은 웹 브라우저 시장 점유율을 보고 브라우저에 따른 웹페이지를 따로 구현해야 했을 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/12-months-trend-browsers.png&quot; alt=&quot;2023년 브라우저 시장 점유율: Google Chrome - 61.80%, Safari - 24.36%, 기타 - 13.84%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;하지만 이는 품이 너무 많이 들것입니다. 간단하게는 웹 개발자들이 어떤 브라우저를 지원할지 고민하는 것도 있겠지만, 이번 스터디의 주제인 웹 접근성 측면에서도 문제가 있겠죠?&lt;/p&gt;
+&lt;p&gt;그래서 있는 것이 웹 표준입니다. &lt;/p&gt;
+&lt;h3 id=&quot;그래서-웹-표준이-뭔데&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%9B%B9-%ED%91%9C%EC%A4%80%EC%9D%B4-%EB%AD%94%EB%8D%B0&quot; aria-label=&quot;그래서 웹 표준이 뭔데 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그래서 웹 표준이 뭔데?&lt;/h3&gt;
+&lt;p&gt;사실 그래서 웹 표준이 뭔데? 싶은 것이 사실입니다. 심지어 W3C 사이트를 가면 냅다 수많은 웹에 대한 표준을 잔뜩 던져줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 918px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 167.66666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAiCAYAAABfqvm9AAAACXBIWXMAABYlAAAWJQFJUiTwAAADkElEQVRIx6WWh5LiSAyG/f5PdHW3y+7sxJudwJCOYJIDxtgmOAfgP0ngKpZZGO7GVSq1GyOrW1//shKGISaTCWzbhqZpmE6n8DwPjuOI5/nFYgG+ttut2LlLKQfnHiyK4vKAhmHg/v4eLy8v4m9vb/H6+opKpYLr62uZL4N8FEwC+r4PXdcxp2WNRiM0Gg1MaZlDGg+GQ/ltvV5je5ThqeBKnmUI/BVWywXSJMYl17lMFW+xQr3TR73dR3eoY7aKYS8jzINEvOcnWEYpWSa23mzOZ2h4AX60TFw1DfxZHeFbTcOXuo6/e1NU6gau/5nQ2MZDd4qXgYMkL84HjOMIrjPDYu7R0n0Uefa5JZumiVq9DpeYC4hJ3w+oCBvwf8oiHNvZDBns2WyG1WqF5XIpnrnjP2xovw7tEnwU/MfrQ7CZs5ubG9RqNVSrVQGZrdvtCuR3d3dotVp4e3uTY/lhhrzEXq+H8XiMwWCAfr8v97y3fLabzaYAz/N8tj8MWOQ5oihEGAbI0vTzS2awu/0R1MEII91EnBXwCeQ4zZHQuOBjty/QRUXR3QBf9wB/JaC/N3T8oPG3hoHvTVNOzqHSXIBNIHrIxnsURtHnwObKqaoqgpqRULCltJdJkohnO5w71MaTVeaKzudzuK4rkLNCe/t7Nrmn7HnMB+FsQPyP6+ySLcvC09MTnp+fxVi1mbl2u42HhweBmoF/fHz8JbuTGfJS2u2OKHN5InjMMJcnptPpSFv4XcDjwArLOyt1THCvi/zTSyewl2i0e2iSqUNNwA6TfG+ZWJLl8ONU5tJ8jSgtCPQTGZrzkEC2cNOxUWmY+KmSUgvUO7AZ+LuOJeO/3jQ8qbbc84sPA5aeFJt6iD2DRTzaMwd+EOw63IFxMsdzv1s6e1Fsbp3sDSqGSX2aN59bA78sopOT0B4z1Du/s/K3zVHTUjgj/txgwLlHs2qzZ5h5PN/70vi5w2ePvyoUfkN5tNhfVN2D8XGbUDiTHrHGvOm69h7cXbd6v3OnwNZIvq5aXMkp7qn3XlE1v9R0/FEdUx+eSXW56jz/SBUuZY2fuW1bUnGWP/ay5CCKMTanGBkWtIkNZ76kZr5BSKzFGTFHeDB3bCGJbkAs8pdEULK6n2OMJKBDTX7QV6XZ21OL1MamVpBgu1ljsy6oRxfi2S65FNZBlcSApYm1keWLq87zruthtveO4yLP83fqfWz/AlzGO1Ihsh3fAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;표준에 대한 리스트: &amp;quot;271개 가족에서 1120건의 보고서를 포함하는 표준 목록&amp;quot;&quot;
+        title=&quot;표준에 대한 리스트: &amp;quot;271개 가족에서 1120건의 보고서를 포함하는 표준 목록&amp;quot;&quot;
+        src=&quot;/static/7ed3b46aec9fd162fcfa67a8fd374af9/e0885/listOfStandards.png&quot;
+        srcset=&quot;/static/7ed3b46aec9fd162fcfa67a8fd374af9/5a46d/listOfStandards.png 300w,
+/static/7ed3b46aec9fd162fcfa67a8fd374af9/0a47e/listOfStandards.png 600w,
+/static/7ed3b46aec9fd162fcfa67a8fd374af9/e0885/listOfStandards.png 918w&quot;
+        sizes=&quot;(max-width: 918px) 100vw, 918px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그래서 대체 이게 뭔가 싶은데, 슬쩍 읽어보면 정말 다양한 웹 컨텐츠나 기술에 대한 표준이 적혀있습니다. 하지만 사실 우리가 원하는 건 프론트엔드에서 직접적으로 사용할 수 있을 것 같은 기술, 그러니까 html 태그와 관련된 것이거든요. 그나마 제가 생각한 개념과는 위키피디아에서 말하는 개념과 비슷합니다&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;웹 사이트나 웹 페이지가 웹 표준을 준수한다는 것은 일반적으로 올바른 HTML, CSS, 자바스크립트를 사이트나 페이지가 가지고 있다는 것을 뜻한다. HTML은 접근성과 시맨틱 HTML의 가이드라인을 충족해야 한다.&lt;/p&gt;
+&lt;p&gt;웹 표준을 논할 때 일반적으로 다음의 것들이 중요성이 있는 것으로 보인다:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML, XHTML, SVG, XForms와 같은 마크업 언어의 W3C 권고&lt;/li&gt;
+&lt;li&gt;스타일시트, 특히 CSS의 W3C 권고&lt;/li&gt;
+&lt;li&gt;흔히 자바스크립트나 ECMA스크립트로 불리는 Ecma 인터내셔널 표준&lt;/li&gt;
+&lt;li&gt;문서 객체 모델의 W3C 권고&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;웹 접근성은 일반적으로 W3C의 Web Accessibility Initiative가 출판한 웹 콘텐츠 접근성 가이드라인에 기반을 두고 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;웹-접근성과-관련된-html-tag&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-html-tag&quot; aria-label=&quot;웹 접근성과 관련된 html tag permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;웹 접근성과 관련된 html tag&lt;/h3&gt;
+&lt;p&gt;aria tag가 아니더라도 다른 tag를 사용하여 웹 접근성을 올릴 수 있습니다. 예를 들어 버튼을 만들 때 div를 사용하겠다고 가정해봅시다. 이런 상황에서 CSS와 JS를 잘 적용시킨다면 버튼처럼 동작하게 만들 수 있겠지만, 스크린 리더나 웹 크롤러 등은 해당 div가 버튼인지 모를 것입니다.&lt;/p&gt;
+&lt;p&gt;이러한 의미론적 태그를 잘 사용해야 웹 접근성을 높일 수 있으며, 이러한 의미가 담겨있는 태그를 semantic tag라고 칭합니다.&lt;/p&gt;
+&lt;h3 id=&quot;semantic-tag&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#semantic-tag&quot; aria-label=&quot;semantic tag permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;semantic tag&lt;/h3&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;h2 id=&quot;참고-링크&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0-%EB%A7%81%ED%81%AC&quot; aria-label=&quot;참고 링크 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고 링크&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.smartebiz.kr/new/subpage02_02.html&quot;&gt;웹발전 연구소&lt;/a&gt;
+&lt;a href=&quot;https://developer.mozilla.org/ko/docs/Glossary/Semantics&quot;&gt;mdn semantic&lt;/a&gt;
+&lt;a href=&quot;https://www.w3.org/standards/&quot;&gt;W3C web standards&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[새로운 동아리장의 인삿말]]></title><description><![CDATA[안녕하세요, 42peer…]]></description><link>https://saltysalt77.github.io/peer/Greetings/</link><guid isPermaLink="false">https://saltysalt77.github.io/peer/Greetings/</guid><pubDate>Mon, 11 Sep 2023 18:03:51 GMT</pubDate><content:encoded>&lt;p&gt;안녕하세요, 42peer의 새로운 회장 히나입니다. 사실 가벼운 마음으로 공지를 작성해 볼까 했는데, 새벽에 주전님이 엄청 좋은 글을 써주셨더라고요. 무한한 감사함과 약간의 책임감을 느끼고 글을 쓰려 자리에 앉았습니다.&lt;/p&gt;
 &lt;p&gt;차기 회장으로서의 마음가짐이나 어떤 것을 해나갈 것인지, 뭐 이런 것들을 이야기해야 할 것 같은데, 그 대신 제 이야기를 해볼까 합니다.&lt;/p&gt;
 &lt;p&gt;먼저 피신 때의 이야기를 해볼까요? 타 기수의 상황은 어떠했는지 모르겠습니다만, 5기 2차, 거기에서 2그룹의 분위기는 다같이 친하고 으쌰으쌰 하는 분위기였습니다. 제가 아무나 붙잡고 물어봐도 다들 친절히 답해주시고, 같은 기수의 같은 차수, 거기에서 같은 그룹으로서의 친밀감과 소속감도 있었고요. 대부분 진도가 같으니 아무나 붙잡고 물어보기도 쉬웠던 것 같아요. 제가 생각지 못한 지점을 깨닫거나 모르는 부분을 고치면서 ‘아, 동료학습! 좋은 거구나!’ 이런 생각도 했던 것 같고요. 도파민의 연속이었습니다.&lt;/p&gt;
 &lt;p&gt;그런데 본 과정에 올라오면서 뭉쳐있던 사람들이 뿔뿔이 흩어지기 시작하더라고요. 각자 목표가 달라지고, 각각의 사정이 다르다 보니, 제가 나올 수 있는 시간에 나오면 저와 친한 사람들은 클러스터에 없었어요. 안타깝게도 저는 낯을 많이 가리는 편이라 뻔뻔하게 아예 모르는 사람에게 막 물어볼 자신도 없었고요. 어떻게 보면 타기수에 대한 유대감이 적었던 것 같기도 해요. 지금이야 오프더레코드도 있고, 여러 행사가 많이 열리지만, 당시엔 코로나 때문에 뭐가 없어서 타 기수와 마주칠 기회도 거의 없었으니까요. &lt;/p&gt;
@@ -137,106 +236,7 @@ These images are found in the &lt;code class=&quot;language-text&quot;&gt;conten
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Thank you.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[접근성 최적화]]></title><description><![CDATA[사실 썸네일 이미지는 UX…]]></description><link>https://saltysalt77.github.io/development/Semantic_tag/</link><guid isPermaLink="false">https://saltysalt77.github.io/development/Semantic_tag/</guid><pubDate>Fri, 10 Dec 2021 03:13:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAC4jAAAuIwF4pT92AAABHUlEQVQoz42SS0sDQRCE6wf7AwQPgqIHBT37woPBB2qCEVTwbZJd1+hJ8eTBBEJATy6KqFnL3ulMmE1mJYdih9mub6p7BmBAr35rqrx1qsSzPxQscda8FkXd2htRmK31QhIngTGLMamq+f2UaBSJVploloiPsyx0ILIx2gR14uWAuF8jHtf13+EcUV8hNiaIpVFiZ4roVPoSWqhp5454LurJnxfE7AixNUmEiwqLj4nagqZ8KOg6rbMpe7DvK+JV0kTLxO40URgnVseIp20iEFh7X2tSo/lK+q9LgZ17WrbD3pQ2juY1XXwirVTVaEYQZo32ogYuxQXuzRBv0hJvu4BA5+Y+FXdEvufU2/ipaFudHEA/LE/Zomg40z/6A7nbGx1zWYyZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;썸네일: 민트 배경에 영어 필기체 &amp;#39;semantic tag&amp;#39;&quot;
-        title=&quot;썸네일: 민트 배경에 영어 필기체 &amp;#39;semantic tag&amp;#39;&quot;
-        src=&quot;/static/0c25ec1b6089b98f50212f84f871394e/5a190/semanticTagThumbnail.png&quot;
-        srcset=&quot;/static/0c25ec1b6089b98f50212f84f871394e/5a46d/semanticTagThumbnail.png 300w,
-/static/0c25ec1b6089b98f50212f84f871394e/0a47e/semanticTagThumbnail.png 600w,
-/static/0c25ec1b6089b98f50212f84f871394e/5a190/semanticTagThumbnail.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;del&gt;사실 썸네일 이미지는 UX 측면에서 정말 별로라고 생각합니다. 필기체는 이쁘긴 하지만 알아보기 어렵거든요&lt;/del&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;웹 접근성은 사실 검색엔진 최적화와도 관련이 있습니다. 그 덕에 요즘 채용시장에선 웹 접근성과 웹 표준이라는 키워드가 종종 나오기도 하죠. 그럼 한 번 알아봅시다.&lt;/em&gt;
-&lt;em&gt;by. hoslim&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;목차&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AA%A9%EC%B0%A8&quot; aria-label=&quot;목차 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;목차&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;알아볼 것들&lt;/li&gt;
-&lt;li&gt;웹 표준?&lt;/li&gt;
-&lt;li&gt;그래서 웹 표준이 뭔데?&lt;/li&gt;
-&lt;li&gt;웹 접근성과 관련된 html tag&lt;/li&gt;
-&lt;li&gt;semantic tag&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;알아볼-것들&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%8C%EC%95%84%EB%B3%BC-%EA%B2%83%EB%93%A4&quot; aria-label=&quot;알아볼 것들 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;알아볼 것들&lt;/h3&gt;
-&lt;p&gt;그러니까 이 글은 사실 스터디 과제에 따라 글을 작성하는 것에 가깝습니다. 원래 관심이 없었던 건 아닌데, 계기가 없어 공부하지 못한 것에 가깝죠. 과제에서 요구하는 것은 다음과 같습니다.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;웹 표준&lt;/li&gt;
-&lt;li&gt;웹 접근성과 관련된 html tag&lt;/li&gt;
-&lt;li&gt;semantic tag&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;사실 웹 접근성과 관련된 html tag는 aria tag나 semantic tag 정도가 아닌가 싶긴 한데, 일단 알아봅시다. &lt;em&gt;&lt;del&gt;(우물한 개구리 같은 발언일 것이라고 생각합니다.)&lt;/del&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;웹-표준&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%B9-%ED%91%9C%EC%A4%80&quot; aria-label=&quot;웹 표준 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;웹 표준?&lt;/h3&gt;
-&lt;p&gt;우선 &lt;a href=&quot;http://www.smartebiz.kr/&quot;&gt;웹 발전 연구소&lt;/a&gt;에서는 이렇게 정의하고 있습니다.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;웹 표준이란 브라우저 종류 및 버전에 따른 기능 차이에 대하여 호환이 가능하도록 제시된 표준으로, 다른 기종 혹은 플랫폼에 따라 달리 구현되는 기술을 동일하게 구현함과 동시에 어느 한쪽에 최적화되어 치우치지 않도록 공통요소를 사용하여 웹 페이지를 제작하는 기법을 의미한다. 표준화 단체인 W3C(World Wide Consortium)가 권고한 표준안에 따라 웹사이트를 작성할 때 이용하는 HTML, CSS, JavaScript 등에 대한 규정을 담고 있으며 웹 표준의 궁극적인 목적은 웹사이트에 접속한 사용자가 어떠한 운영체제나 브라우저를 사용하더라도 동일한 결과를 보이게 하는 것이다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.w3.org/&quot;&gt;W3C&lt;/a&gt;에서는 다음과 같이 정의하고 있습니다.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Web standards are blueprints –or building blocks– of a consistent and harmonious digitally connected world. They are implemented in browsers, blogs, search engines, and other software that power our experience on the web.
-&lt;em&gt;웹 표준은 조화롭고 한결같은 디지털로 연결된 세상의 청사진(혹은 구현 요소) 입니다. 이러한 세상은 브라우저들, 블로그들, 검색엔진, 또는 웹 경험을 증가시키는 다른 소프트웨어에 구현되어있습니다.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;그러니까 다시 말해 웹 표준이란 ‘어떤 웹 브라우저를 사용하던, 어떤 환경(ex. pc나 mobile 등등)에서 구동하건 달리 구현되는 기술을 동일하게 구현함과 동시에, 공통 요소를 사용하여 웹 페이지를 제작하는 기법에 대한 기준’을 뜻하는 것 같습니다. 만약 웹 표준이 없었다면 웹 개발자들은 다음과 같은 웹 브라우저 시장 점유율을 보고 브라우저에 따른 웹페이지를 따로 구현해야 했을 것입니다.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/12-months-trend-browsers.png&quot; alt=&quot;2023년 브라우저 시장 점유율: Google Chrome - 61.80%, Safari - 24.36%, 기타 - 13.84%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;하지만 이는 품이 너무 많이 들것입니다. 간단하게는 웹 개발자들이 어떤 브라우저를 지원할지 고민하는 것도 있겠지만, 이번 스터디의 주제인 웹 접근성 측면에서도 문제가 있겠죠?&lt;/p&gt;
-&lt;p&gt;그래서 있는 것이 웹 표준입니다. &lt;/p&gt;
-&lt;h3 id=&quot;그래서-웹-표준이-뭔데&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%9B%B9-%ED%91%9C%EC%A4%80%EC%9D%B4-%EB%AD%94%EB%8D%B0&quot; aria-label=&quot;그래서 웹 표준이 뭔데 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그래서 웹 표준이 뭔데?&lt;/h3&gt;
-&lt;p&gt;사실 그래서 웹 표준이 뭔데? 싶은 것이 사실입니다. 심지어 W3C 사이트를 가면 냅다 수많은 웹에 대한 표준을 잔뜩 던져줍니다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 918px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 167.66666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAiCAYAAABfqvm9AAAACXBIWXMAABYlAAAWJQFJUiTwAAADkElEQVRIx6WWh5LiSAyG/f5PdHW3y+7sxJudwJCOYJIDxtgmOAfgP0ngKpZZGO7GVSq1GyOrW1//shKGISaTCWzbhqZpmE6n8DwPjuOI5/nFYgG+ttut2LlLKQfnHiyK4vKAhmHg/v4eLy8v4m9vb/H6+opKpYLr62uZL4N8FEwC+r4PXdcxp2WNRiM0Gg1MaZlDGg+GQ/ltvV5je5ThqeBKnmUI/BVWywXSJMYl17lMFW+xQr3TR73dR3eoY7aKYS8jzINEvOcnWEYpWSa23mzOZ2h4AX60TFw1DfxZHeFbTcOXuo6/e1NU6gau/5nQ2MZDd4qXgYMkL84HjOMIrjPDYu7R0n0Uefa5JZumiVq9DpeYC4hJ3w+oCBvwf8oiHNvZDBns2WyG1WqF5XIpnrnjP2xovw7tEnwU/MfrQ7CZs5ubG9RqNVSrVQGZrdvtCuR3d3dotVp4e3uTY/lhhrzEXq+H8XiMwWCAfr8v97y3fLabzaYAz/N8tj8MWOQ5oihEGAbI0vTzS2awu/0R1MEII91EnBXwCeQ4zZHQuOBjty/QRUXR3QBf9wB/JaC/N3T8oPG3hoHvTVNOzqHSXIBNIHrIxnsURtHnwObKqaoqgpqRULCltJdJkohnO5w71MaTVeaKzudzuK4rkLNCe/t7Nrmn7HnMB+FsQPyP6+ySLcvC09MTnp+fxVi1mbl2u42HhweBmoF/fHz8JbuTGfJS2u2OKHN5InjMMJcnptPpSFv4XcDjwArLOyt1THCvi/zTSyewl2i0e2iSqUNNwA6TfG+ZWJLl8ONU5tJ8jSgtCPQTGZrzkEC2cNOxUWmY+KmSUgvUO7AZ+LuOJeO/3jQ8qbbc84sPA5aeFJt6iD2DRTzaMwd+EOw63IFxMsdzv1s6e1Fsbp3sDSqGSX2aN59bA78sopOT0B4z1Du/s/K3zVHTUjgj/txgwLlHs2qzZ5h5PN/70vi5w2ePvyoUfkN5tNhfVN2D8XGbUDiTHrHGvOm69h7cXbd6v3OnwNZIvq5aXMkp7qn3XlE1v9R0/FEdUx+eSXW56jz/SBUuZY2fuW1bUnGWP/ay5CCKMTanGBkWtIkNZ76kZr5BSKzFGTFHeDB3bCGJbkAs8pdEULK6n2OMJKBDTX7QV6XZ21OL1MamVpBgu1ljsy6oRxfi2S65FNZBlcSApYm1keWLq87zruthtveO4yLP83fqfWz/AlzGO1Ihsh3fAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;표준에 대한 리스트: &amp;quot;271개 가족에서 1120건의 보고서를 포함하는 표준 목록&amp;quot;&quot;
-        title=&quot;표준에 대한 리스트: &amp;quot;271개 가족에서 1120건의 보고서를 포함하는 표준 목록&amp;quot;&quot;
-        src=&quot;/static/7ed3b46aec9fd162fcfa67a8fd374af9/e0885/listOfStandards.png&quot;
-        srcset=&quot;/static/7ed3b46aec9fd162fcfa67a8fd374af9/5a46d/listOfStandards.png 300w,
-/static/7ed3b46aec9fd162fcfa67a8fd374af9/0a47e/listOfStandards.png 600w,
-/static/7ed3b46aec9fd162fcfa67a8fd374af9/e0885/listOfStandards.png 918w&quot;
-        sizes=&quot;(max-width: 918px) 100vw, 918px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그래서 대체 이게 뭔가 싶은데, 슬쩍 읽어보면 정말 다양한 웹 컨텐츠나 기술에 대한 표준이 적혀있습니다. 하지만 사실 우리가 원하는 건 프론트엔드에서 직접적으로 사용할 수 있을 것 같은 기술, 그러니까 html 태그와 관련된 것이거든요. 그나마 제가 생각한 개념과는 위키피디아에서 말하는 개념과 비슷합니다&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;웹 사이트나 웹 페이지가 웹 표준을 준수한다는 것은 일반적으로 올바른 HTML, CSS, 자바스크립트를 사이트나 페이지가 가지고 있다는 것을 뜻한다. HTML은 접근성과 시맨틱 HTML의 가이드라인을 충족해야 한다.&lt;/p&gt;
-&lt;p&gt;웹 표준을 논할 때 일반적으로 다음의 것들이 중요성이 있는 것으로 보인다:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;HTML, XHTML, SVG, XForms와 같은 마크업 언어의 W3C 권고&lt;/li&gt;
-&lt;li&gt;스타일시트, 특히 CSS의 W3C 권고&lt;/li&gt;
-&lt;li&gt;흔히 자바스크립트나 ECMA스크립트로 불리는 Ecma 인터내셔널 표준&lt;/li&gt;
-&lt;li&gt;문서 객체 모델의 W3C 권고&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;웹 접근성은 일반적으로 W3C의 Web Accessibility Initiative가 출판한 웹 콘텐츠 접근성 가이드라인에 기반을 두고 있다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;웹-접근성과-관련된-html-tag&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-html-tag&quot; aria-label=&quot;웹 접근성과 관련된 html tag permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;웹 접근성과 관련된 html tag&lt;/h3&gt;
-&lt;p&gt;aria tag가 아니더라도 다른 tag를 사용하여 웹 접근성을 올릴 수 있습니다. 예를 들어 버튼을 만들 때 div를 사용하겠다고 가정해봅시다. 이런 상황에서 CSS와 JS를 잘 적용시킨다면 버튼처럼 동작하게 만들 수 있겠지만, 스크린 리더나 웹 크롤러 등은 해당 div가 버튼인지 모를 것입니다.&lt;/p&gt;
-&lt;p&gt;이러한 의미론적 태그를 잘 사용해야 웹 접근성을 높일 수 있으며, 이러한 의미가 담겨있는 태그를 semantic tag라고 칭합니다.&lt;/p&gt;
-&lt;h3 id=&quot;semantic-tag&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#semantic-tag&quot; aria-label=&quot;semantic tag permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;semantic tag&lt;/h3&gt;
-&lt;p&gt;…&lt;/p&gt;
-&lt;h2 id=&quot;참고-링크&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0-%EB%A7%81%ED%81%AC&quot; aria-label=&quot;참고 링크 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고 링크&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.smartebiz.kr/new/subpage02_02.html&quot;&gt;웹발전 연구소&lt;/a&gt;
-&lt;a href=&quot;https://developer.mozilla.org/ko/docs/Glossary/Semantics&quot;&gt;mdn semantic&lt;/a&gt;
-&lt;a href=&quot;https://www.w3.org/standards/&quot;&gt;W3C web standards&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[a short review of the first week]]></title><description><![CDATA[I am writing the post in English because I can’t write Korean in my development environment. If I want to write in Korean, I guess I have to…]]></description><link>https://saltysalt77.github.io/github.io_short_study/first-week/</link><guid isPermaLink="false">https://saltysalt77.github.io/github.io_short_study/first-week/</guid><pubDate>Fri, 10 Dec 2021 03:13:01 GMT</pubDate><content:encoded>&lt;p&gt;I am writing the post in English because I can’t write Korean in my development environment. If I want to write in Korean, I guess I have to write on GitHub. (Or make my development environment can write Korean.)&lt;/p&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[a short review of the first week]]></title><description><![CDATA[I am writing the post in English because I can’t write Korean in my development environment. If I want to write in Korean, I guess I have to…]]></description><link>https://saltysalt77.github.io/github.io_short_study/first-week/</link><guid isPermaLink="false">https://saltysalt77.github.io/github.io_short_study/first-week/</guid><pubDate>Fri, 10 Dec 2021 03:13:01 GMT</pubDate><content:encoded>&lt;p&gt;I am writing the post in English because I can’t write Korean in my development environment. If I want to write in Korean, I guess I have to write on GitHub. (Or make my development environment can write Korean.)&lt;/p&gt;
 &lt;p&gt;It was so hard to deploy the blog. I made a blog about 6times and deleted the blog about 5times. I’ve done that because when I deployed and went to the blog, I could just see 404 error pages. I could not confix it. So I started over.&lt;/p&gt;
 &lt;p&gt;My next goal is to make an auto-deploying workflow. And add new stuff to my blog. (ex. category page)&lt;/p&gt;
 &lt;p&gt;Thank you!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[About me Hello, I’m hyna!
